@@ -1,4 +1,4 @@
-OV7670 CAMERA ILI9341 8BIT STM32
+OV7670 CAMERA ILI9341 8BIT STM32 FSMC
 
 https://www.youtube.com/watch?v=rL1TqYcf4vc
 
